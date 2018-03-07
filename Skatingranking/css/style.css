@@ -1,0 +1,39 @@
+
+/*
+    Created on : 18 févr. 2018, 07:39:53
+    Author     : regis COQUELET
+*/
+
+body {
+    background-image: url('../img/IceSkate-Neo-50.jpg');
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: cover;
+}
+header{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    opacity: 1;
+}
+table {
+    border-collapse: collapse;
+}
+table, td, th{
+    border: 1px solid black;
+}
+td {
+    background-color: rgba(255, 255, 255, 0.4);
+    padding-left: 4px;
+}
+.hiddenRow{
+    display: none;
+}
+.center {
+    text-align: center;
+}
+.right {
+    text-align: right;
+    padding-right: 4px;
+}
