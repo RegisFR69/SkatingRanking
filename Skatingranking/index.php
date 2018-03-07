@@ -51,6 +51,7 @@
         ?>
     </div>
         <script src="js/getSelectedText.js" type="text/javascript"></script>
+        <script src="js/setRanking.js" type="text/javascript"></script>
     <!-- Script addEventListener -->
         <script src="js/event/eventLinks.js" type="text/javascript"></script>
         <script src="js/event/eventSex.js" type="text/javascript"></script>
